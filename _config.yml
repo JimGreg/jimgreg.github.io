@@ -1,9 +1,9 @@
 # Site settings
-title: BY Blog
+title: domain for sale
 SEOTitle: liulisuo.com
 header-img: img/post-bg-desk.jpg
 email: tearinheaven1995@gmail.com
-description: "Every failure is leading towards success."
+description: "drop email to tearinheaven1995ATgmailDOTcom"
 keyword: ""
 url: "http://liulisuo.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
